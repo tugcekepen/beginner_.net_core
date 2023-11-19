@@ -1,14 +1,14 @@
 [22,27,16,2,18,6] -> Insertion Sort
 
-Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-Big-O gösterimini yazınız.
+2. Big-O gösterimini yazınız.
 
-Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki caselerden hangisinin kapsamına girer? Yazınız
+3. Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki caselerden hangisinin kapsamına girer? Yazınız
 
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
+    - Average case: Aradığımız sayının ortada olması
+    - Worst case: Aradığımız sayının sonda olması
+    - Best case: Aradığımız sayının dizinin en başında olması.
 
 CEVAP
 
@@ -25,7 +25,7 @@ Big-O -> O(n^2)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort türüne göre ilk 4 adımını yazınız.
+1. [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort türüne göre ilk 4 adımını yazınız.
 
 Adım 1 [2,3,5,8,7,9,4,15,6]
 Adım 2 [2,3,4,8,7,9,5,15,6]
